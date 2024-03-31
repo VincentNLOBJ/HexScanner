@@ -2,6 +2,8 @@
 Automatically scan folder and subfolders for files containing a specific bytes array.
 Eventual results will be displayed and managed with options.
 
+![image](https://github.com/VincentNLOBJ/HexScanner/assets/71412899/f90abc1f-14a0-43b7-b485-e54686b26dc8)
+
 # How-to-use 
 
 1) Set your bytes array in the white box
