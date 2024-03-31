@@ -1,4 +1,4 @@
-# HEXSCANNER
+# Hex Scanner
 Automatically scan folder and subfolders for files containing a specific bytes array.
 Eventual results will be displayed and managed with options.
 
@@ -11,7 +11,7 @@ Eventual results will be displayed and managed with options.
 3) If any result is found, that will be displayed in the list
 
 
-# Results Options
+# Result Options
 
 1) "Save Log" to save your results to a text file
 2) Right click on an a result to allow for extra options:
